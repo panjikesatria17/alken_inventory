@@ -37,3 +37,6 @@ Route::get('/exportexcel', [EmployeeController::class, 'exportexcel'])->name('ex
 
 //import Excel
 Route::post('/importexcel', [EmployeeController::class, 'importexcel'])->name('importexcel');
+
+//root untuk test
+Route::get('/test', [EmployeeController::class, 'test'])->name('test');
