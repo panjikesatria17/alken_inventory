@@ -1025,25 +1025,34 @@
                   <ul class="nav nav-sm flex-column">
                     <li class="nav-item">
                       <a
-                        href="dashboard-analytics.html"
+                        href="/pegawai"
                         class="nav-link"
                         data-key="t-analytics"
                       >
-                        Analytics
+                        Data Pegawai
                       </a>
                     </li>
                     <li class="nav-item">
                       <a
-                        href="dashboard-crm.html"
+                        href="#"
                         class="nav-link"
                         data-key="t-crm"
                       >
-                        CRM
+                        User
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a href="dashboard-job.html" class="nav-link"
-                        ><span data-key="t-job">Job</span>
+                      <a
+                        href="#"
+                        class="nav-link"
+                        data-key="t-crm"
+                      >
+                        Role
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"
+                        ><span data-key="t-job">Data Base</span>
                         <span
                           class="badge badge-pill bg-success"
                           data-key="t-new"
@@ -1187,7 +1196,7 @@
 
               <li class="nav-item">
                 <a class="nav-link menu-link" href="#sidebarAuth" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarAuth">
-                    <i class="bx bx-user-circle"></i> <span data-key="t-authentication">Finance</span>
+                    <i class="bx bx-user-circle"></i> <span data-key="t-authentication">Finance  </span>
                 </a>
                 <div class="collapse menu-dropdown" id="sidebarAuth">
                     <ul class="nav nav-sm flex-column">
