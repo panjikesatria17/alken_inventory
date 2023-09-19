@@ -1222,14 +1222,14 @@
                 <div
                   class="page-title-box d-sm-flex align-items-center justify-content-between"
                 >
-                  <h4 class="mb-sm-0">Datatables</h4>
+                  <h4 class="mb-sm-0">Dashboard HRD</h4>
 
                   <div class="page-title-right">
                     <ol class="breadcrumb m-0">
                       <li class="breadcrumb-item">
                         <a href="javascript: void(0);">Tables</a>
                       </li>
-                      <li class="breadcrumb-item active">Datatables</li>
+                      <li class="breadcrumb-item active">HRD</li>
                     </ol>
                   </div>
                 </div>
@@ -1363,11 +1363,11 @@
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                © Velzon.
+                © Alken.
               </div>
               <div class="col-sm-6">
                 <div class="text-sm-end d-none d-sm-block">
-                  Design & Develop by Themesbrand
+                  Design & Develop by Panca Boediman
                 </div>
               </div>
             </div>
